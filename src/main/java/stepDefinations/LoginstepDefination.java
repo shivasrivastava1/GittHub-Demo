@@ -24,6 +24,8 @@ public class LoginstepDefination extends TestBase {
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
 		driver.get("https://www.freecrm.com/index.html");*/
+		
+		//Launch the Browser
 		lauchBrowser();
 		url();
 		
